@@ -172,6 +172,10 @@ header ul li a
         background: #000;
         border: 1px solid #faa401;
     }
+    .card:hover{
+        transform: none;
+        background: none;
+    }
     .card:first-child
     {
         margin-top: 0px;
