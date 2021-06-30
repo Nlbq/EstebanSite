@@ -178,7 +178,7 @@ header ul li a
     }
     .card:first-child
     {
-        margin-top: 0px;
+        margin-top: -40px;
     }
     .card i 
     {
