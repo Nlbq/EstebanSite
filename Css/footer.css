@@ -1,0 +1,27 @@
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 100%;
+    background:#000;
+    text-align: center;
+}
+footer p{
+    color: #999;
+}
+
+footer a{
+    color:#faa401;
+    text-decoration:none; 
+    display:inline-block;
+}
+
+@media only screen and (max-width : 769px) {
+  footer p{
+      font-size: 10px;
+  }
+  footer a{
+      font-size:10px;
+    }
+}
