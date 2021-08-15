@@ -159,10 +159,15 @@ body{
     font-size: 0.9em;
     margin: 5px 0 10px;
 }
+
+.banner .textBox p span{
+    display: none;
+}
     .banner .textBox h2
     {
         font-size: 1.8em;
     }
+
     .banner .videoBx
     {
         width: 100%;
@@ -171,7 +176,6 @@ body{
 		background-color: transparent;
 		/* opacity: 0; */
 		z-index: 1;
-		
     }
     .banner .videoBx .box
     {
